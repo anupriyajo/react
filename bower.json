@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "homepage": "https://github.com/stackroute/StackRoute-Vagrant-Node5-Mongo3.2",
+  "authors": [
+    "anupriya johari <anupriya.johari@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.2.0",
+    "bootstrap": "^3.3.6",
+    "babel": "*"
+  }
+}
